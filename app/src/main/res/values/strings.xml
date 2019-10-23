@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="txt_segundaActivity">Bienvenido</string>
+    <string name="txt_titulo">INGRESAR AL SISTEMA</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="txtRegistrar">Registrarse</string>
+    <string name="mnu_add">Agregar</string>
+    <string name="mnu_edit">Editar</string>
+    <string name="mnu_delete">Borrar</string>
+    <string name="mnu_exit">Salir</string>
+</resources>
